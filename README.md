@@ -1,5 +1,5 @@
 <strong>#Footer Project</strong><br>
--This is a footer project that i do learning css
+-This is a footer project that i made learning css
 
 👋 Hi, I’m @autpedro <br>
 🔋 I’m currently studyng electrical engineering<br>
