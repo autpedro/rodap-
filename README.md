@@ -1,44 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Projetin fellas</title>
-</head>
-<style>
-     footer{ background-color: gray;}
-     a{
-      text-decoration: none;
-      color:white ;
-      
-    }
-    a:hover{
-        text-decoration: underline;
-    }
-    ul{
-        text-align: center;
-        list-style-type:none;
-        background-color:black;
-        padding: 20px;
-        width: 350px;
-        margin-left: 40%;
-        margin-top: 700px;
-    }
-    ul li{ 
-        text-align: center;
-        display: inline;
-        margin-left: 5px;
-       
-    }
-    
-</style>
-<footer>
+<strong>#Footer Project</strong>
+-This is a footer project that i do learning css
 
-<ul>
-<a href="#" target="_blank"><li>Politicas</li></a>
-<a href="#" target="_blank"><li>Quem somos</li></a>
-<a href="#" target="_blank"><li>Contato</li></a>
-<a href="#" target="_blank"><li>Suporte</li></a>
-</ul>
-</footer>
+👋 Hi, I’m @autpedro <br>
+🔋 I’m currently studyng electrical engineering<br>
+👀 I’m interested in learn codes<br>
+🌱 I’m currently learning front-end web design<br>
+💞️ I’m looking to collaborate on internship jobs<br>
+📫 How to reach me autdolol@aluno.ufsj.edu.br
