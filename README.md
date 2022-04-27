@@ -1,4 +1,4 @@
-<strong>#Footer Project</strong>
+<strong>#Footer Project</strong><br>
 -This is a footer project that i do learning css
 
 👋 Hi, I’m @autpedro <br>
